@@ -1,0 +1,16 @@
+PODS:
+  - FlexiblePageControl (1.0.8)
+
+DEPENDENCIES:
+  - FlexiblePageControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlexiblePageControl
+
+SPEC CHECKSUMS:
+  FlexiblePageControl: 07f7765054f16b3f0bc3f14dfd95ab5f45817ea4
+
+PODFILE CHECKSUM: 4ecb7dcb81960dd4529c94791f9e8dbc0ecfcbf8
+
+COCOAPODS: 1.6.1

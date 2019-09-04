@@ -1,0 +1,6 @@
+framework module Pods_FlexiblePageControlDemo {
+  umbrella header "Pods-FlexiblePageControlDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
